@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [FamilyAlbum](https://family-album.com/)
+- 🔭 I’m currently working on [FamilyAlbum](https://family-album.com/) that is [みてね in Japan](https://mitene.us/) 
 - 🌱 I’m currently learning Android dev, Vue.js
 - 📫 How to reach me: https://twitter.com/punchdrunker
 - 😄 Pronouns: he him his
