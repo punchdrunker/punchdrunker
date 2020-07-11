@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on [FamilyAlbum](https://family-album.com/)
+- 🌱 I’m currently learning Android dev, Vue.js
+- 📫 How to reach me: https://twitter.com/punchdrunker
+- 😄 Pronouns: he him his
+- ⚡ Fun fact: 🍺 🥃 🍶
+
 <!--
 **punchdrunker/punchdrunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
